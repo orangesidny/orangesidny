@@ -34,19 +34,13 @@ Here are some ideas to get you started:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
-<a href="https://github.com/orangesidny">
-  ![Orangesidny](https://github-readme-stats.vercel.app/api?username=orangesidny&count_private=true&show_icons=true)
-</a>
-<a href="https://github.com/orangesidny>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orangesidny&" alt="orangesidny" />
-</a>
 
 
 ![Orangesidny](https://github-readme-stats.vercel.app/api?username=orangesidny&count_private=true&show_icons=true)
 
 
 <a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orangesidny&" alt="orangesidny" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=orangesidny&" alt="orangesidny" />
 </a>
 
 
