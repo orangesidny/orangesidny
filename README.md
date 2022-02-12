@@ -37,6 +37,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=orangesidny&show_icons=true&locale=en" alt="orangesidny" />
 </a>
 <a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangesidny&repo=orangesidny.github.io&theme=buefy" />
+</a>
+<a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orangesidny&" alt="orangesidny" />
 </a>
 
