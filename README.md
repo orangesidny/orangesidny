@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 <a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orangesidny&show_icons=true&locale=en" alt="scrumpyy" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=orangesidny&show_icons=true&locale=en" alt="orangesidny" />
 </a>
 <a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orangesidny&" alt="scrumpyy" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orangesidny&" alt="orangesidny" />
 </a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangesidny&repo=github-readme-stats&theme=buefy" />
