@@ -1,4 +1,7 @@
+<h1 align="center">Hi 👋, I'm Orangesidny</h1>
+<h3 align="center">My goal is to be able to code anything and everything all powered by discord.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=orangesidny&label=Profile%20views&color=0e75b6&style=flat" alt="orangesidny" />
 
 <!--
 **orangesidny/orangesidny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
