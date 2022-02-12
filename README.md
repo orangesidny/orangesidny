@@ -33,21 +33,14 @@ Here are some ideas to get you started:
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
+
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=orangesidny&show_icons=true&locale=en" alt="orangesidny" />
 </a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangesidny&theme=buefy" />
-</a>
+
 <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orangesidny&" alt="orangesidny" />
 </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangesidny&repo=github-readme-stats&theme=buefy" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
-<a href="https://github.com/orangesidny/orangesidny.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangesidny&repo=orangesidny.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
