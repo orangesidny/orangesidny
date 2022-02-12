@@ -42,5 +42,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orangesidny&" alt="orangesidny" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Orangesidny](https://github-readme-stats.vercel.app/api?username=orangesidny&count_private=true)
 
