@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/orangesidny">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=orangesidny&count_private=true&show_icons=true" />
+  ![Orangesidny](https://github-readme-stats.vercel.app/api?username=orangesidny&count_private=true&show_icons=true)
 </a>
 <a href="https://github.com/orangesidny>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orangesidny&" alt="orangesidny" />
