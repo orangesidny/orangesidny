@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Contact me with:**
+<a href="https://twitter.com" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F842%2F992%2Fpng-clipart-discord-computer-servers-teamspeak-discord-icon-video-game-smiley.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-oazbl&tbnid=-93Gm-6_wIYSfM&vet=12ahUKEwiGwPWR-fr1AhWBsCoKHS-7Ap0QMygGegUIARDgAQ..i&docid=PrQilD4-pjCFLM&w=900&h=512&q=discord%20icon&ved=2ahUKEwiGwPWR-fr1AhWBsCoKHS-7Ap0QMygGegUIARDgAQ" alt="orangesidny" height="30" width="40" /></a>
 
 **Languages, Databases and tools:**
 <br>
