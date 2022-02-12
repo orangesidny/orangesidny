@@ -38,6 +38,6 @@
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangesidny&layout=compact)](https://github.com/orangesidny)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangesidny&layout=compact)](https://github.com/orangesidny) -->
 
 
