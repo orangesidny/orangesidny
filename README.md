@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orangesidny&" alt="scrumpyy" /></p>
 
-<a href="https://github.com/orangesidny/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangesidny&repo=github-readme-stats&theme=buefy" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangesidny&repo=github-readme-stats&theme=buefy" />
+
 <a href="https://github.com/orangesidny/orangesidny.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangesidny&repo=orangesidny.github.io&theme=buefy" />
 </a>
