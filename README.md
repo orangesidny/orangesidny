@@ -1,4 +1,4 @@
-<p align="center"><a href="https://orangesidny.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+
 
 <!--
 **orangesidny/orangesidny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **Contact me with:**
-<a href="https://twitter.com" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F842%2F992%2Fpng-clipart-discord-computer-servers-teamspeak-discord-icon-video-game-smiley.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-oazbl&tbnid=-93Gm-6_wIYSfM&vet=12ahUKEwiGwPWR-fr1AhWBsCoKHS-7Ap0QMygGegUIARDgAQ..i&docid=PrQilD4-pjCFLM&w=900&h=512&q=discord%20icon&ved=2ahUKEwiGwPWR-fr1AhWBsCoKHS-7Ap0QMygGegUIARDgAQ" alt="orangesidny" height="30" width="40" /></a>
+<a href="https://discord.gg/4qCugg5nmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VqR7FaEkUr" height="30" width="40" /></a> or orangesidny#7777
 
 **Languages, Databases and tools:**
 <br>
