@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=orangesidny&theme=radical)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orangesidny&show_icons=true&locale=en" alt="scrumpyy" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orangesidny&" alt="scrumpyy" /></p>
