@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
 
 <!--
 **orangesidny/orangesidny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
