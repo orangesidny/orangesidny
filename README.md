@@ -33,9 +33,12 @@ Here are some ideas to get you started:
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
+<a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orangesidny&show_icons=true&locale=en" alt="scrumpyy" /></p>
-
+</a>
+<a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orangesidny&" alt="scrumpyy" /></p>
+</a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangesidny&repo=github-readme-stats&theme=buefy" />
 
