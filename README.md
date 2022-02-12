@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Contact me with:**
+**Contact me with:** 
+
 <a href="https://discord.gg/4qCugg5nmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VqR7FaEkUr" height="30" width="40" /></a> or orangesidny#7777
 
 **Languages, Databases and tools:**
