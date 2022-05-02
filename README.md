@@ -9,7 +9,8 @@
   
 
 **Contact me with:** <br>
-<a href="https://discord.gg/4qCugg5nmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VqR7FaEkUr" height="30" width="40" /></a> or orangesidny#7777
+<!-- <a href="https://discord.gg/4qCugg5nmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VqR7FaEkUr" height="30" width="40" /></a> or orangesidny#7777 -->
+ [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/518542720936181771)](https://discord.com/users/518542720936181771)
 
 **Languages, Databases and tools:**
 <br>
@@ -42,7 +43,7 @@
 Feel free to contact me on discord:
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/518542720936181771)](https://discord.com/users/518542720936181771)
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangesidny&layout=compact)](https://github.com/orangesidny) -->
 
