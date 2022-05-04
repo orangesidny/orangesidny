@@ -40,7 +40,7 @@
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangesidny&hide_title=true&layout=compact&theme=graywhite" />
 
-Feel free to contact me on discord:
+
 
 
 
