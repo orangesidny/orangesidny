@@ -30,6 +30,8 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
+My Code TIme
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/3795?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 
 
