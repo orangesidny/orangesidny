@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orangesidny&label=Profile%20views&color=0e75b6&style=flat" alt="orangesidny" />
 
-  - 🔭 I'm the Founder & (only) Developer for [DCP - Discord Bot Provider](https://oranges.host/store)
+  - 🔭 I'm the Founder & (only) Developer for DCP - Discord Bot Provider
   
   - 📫 How to reach me **orangesidny#7777**
   
