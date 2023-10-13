@@ -6,6 +6,9 @@
   - 🔭 I'm the Founder & (only) Developer for DCP - Discord Bot Provider
   
   - 📫 How to reach me **orangesidny#7777**
+
+  - Founder of the Ai powered Study tool, https://envision.study/
+  
   
 
 **Contact me with:** <br>
