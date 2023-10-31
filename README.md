@@ -5,7 +5,7 @@
 
   - 🔭 I'm the Founder & (only) Developer for DCP - Discord Bot Provider
   
-  - 📫 How to reach me **orangesidny#7777**
+  - 📫 How to reach me Discord - **orangesidny**, Email -orangesidny@gmail.com
 
   - Founder of the Ai powered Study tool, https://envision.study/
   
