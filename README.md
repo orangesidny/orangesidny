@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orangesidny</h1>
-<h3 align="center">My goal is to be able to code anything and everything all powered by code</h3>
+<h3 align="center">My goal is to be able to code anything and everything all powered by my brain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orangesidny&label=Profile%20views&color=0e75b6&style=flat" alt="orangesidny" />
 
@@ -8,7 +8,15 @@
   - 📫 How to reach me Discord - **orangesidny**, Email - orangesidny@gmail.com
 
   - Founder of the Ai powered Study tool, https://envision.study/
+
+  - Founder of a Google Chrome Extension to improve Sales Efficiency, https://elper.xyz/
+
+  - Founder of VsCode Extension to tracker coding time, https://loencer.com/
   
+**Coming soon**
+  - Founder of a daily goals app, https://tomorrowsgoal.xyz/
+
+  - CoFounder of a Golf Stats app, https://improveyour.golf/
   
 
 **Contact me with:** <br>
