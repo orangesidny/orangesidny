@@ -7,7 +7,7 @@
   
   - 📫 How to reach me Discord - **orangesidny**, Email - orangesidny@gmail.com
 
-  - Founder of the Ai powered Study tool, https://envision.study/
+  - Founder of the Ai powered Study tool, https://envision.study/ / https://mystudyninja.com/
 
   - Founder of a Google Chrome Extension to improve Sales Efficiency, https://elper.xyz/
 
