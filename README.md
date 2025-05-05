@@ -20,7 +20,7 @@
   
 
 **Contact me at:** <br>
-support@envision.study
+support@mystudyninja.com
 
 <!-- <a href="https://discord.gg/4qCugg5nmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VqR7FaEkUr" height="30" width="40" /></a> or orangesidny#7777 -->
 [![Discord Presence](https://lanyard.cnrad.dev/api/518542720936181771)](https://discord.com/users/518542720936181771)
